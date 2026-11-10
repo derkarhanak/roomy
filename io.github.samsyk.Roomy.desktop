@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Roomy
+Comment=See what's using your disk and clean it up
+Exec=roomy
+Icon=io.github.samsyk.Roomy
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;System;
+Keywords=storage;disk;space;uninstall;cleanup;cache;
+StartupNotify=true
